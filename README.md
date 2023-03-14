@@ -3,6 +3,8 @@ A .Net CLI Tool to get weather update of a city
 Please follow the below mentioned steps to run the Application as a .Net CLI tool:
 ===================================================================================
 
+The application is done on .netcore 3.1
+
 1. Open command prompt, and go to any location of your choice.
 2. Run the below command: <br />
      C:\your path> git clone https://github.com/RajaChakraborty/WeatherUpdateDotNetCLITool1.git
